@@ -8,7 +8,7 @@ An end-to-end quantitative finance pipeline that leverages classical time-series
 ## 🚀 Live Interactive Environment
 This project is built with an automated cloud data streaming architecture. You can run the live, interactive models with a single click without any manual setup:
 
-👉 **[Open Live Notebook in Google Colab](PASTE_YOUR_COLAB_SHARE_LINK_HERE)**
+👉 **[Open Live Notebook in Google Colab](https://colab.research.google.com/drive/1r_woxh6TKoTs0ZIuK5bKrAzEK32Zgsrr#)**
 
 ---
 
