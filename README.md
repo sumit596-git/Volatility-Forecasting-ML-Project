@@ -1,4 +1,4 @@
-# Volatility-Forecasting-Time Series-Project
+# Volatility-Forecasting-ML-Project
 # 📈 S&P 500 Volatility Forecasting & Systematic Trading Pipeline
 
 An end-to-end quantitative finance pipeline that leverages classical time-series analysis (ARIMA) and machine learning (XGBoost) to forecast S&P 500 (SPY) volatility regimes and deploy a risk-managed systematic trading strategy.
