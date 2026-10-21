@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Live Interactive Environment
-
-This system features an automated cloud data streaming architecture. You can execute the live interactive models with a single click:
-
-👉 **[Open Live Notebook in Google Colab](https://colab.research.google.com/drive/1r_woxh6TKoTs0ZIuK5bKrAzEK32Zgsrr#)**
-
----
 
 ## 📌 Executive Summary
 
