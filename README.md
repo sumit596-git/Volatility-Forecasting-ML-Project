@@ -20,7 +20,7 @@ By engineering multi-period rolling risk windows (`hist_vol_10d`, `hist_vol_21d`
 | :--- | :--- | :--- | :--- | :--- |
 | **Buy & Hold Benchmark (SPY)** | N/A | **0.67** | 100% (Always Exposed) | Baseline |
 | **ARIMA Baseline** | ~0.0000 | N/A | N/A | Minimal |
-| **XGBoost Volatility Strategy** | **0.5527** | **0.85** | **Dynamic (0% in Panics)** | **+163% Sharpe Boost** |
+| **XGBoost Volatility Strategy** | **0.5527** | **0.85** | **Dynamic (0% in Panics)** | **27% Sharpe Boost** |
 
 > **Key Takeaway:** By predicting extreme risk regimes ahead of time, the ML-driven trading overlay successfully shifted capital to cash ahead of severe market collapses (Q4 2018 correction and COVID-19 crash), preserving capital and smoothing out the equity curve.
 
